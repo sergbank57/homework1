@@ -1,0 +1,68 @@
+h1{
+    color: rgb(41, 41, 207);
+    text-align: center;
+}
+.blok1 span{
+    color: rgb(239, 14, 59);
+    font-size: 22px;
+}
+.blok1 img{
+    width: 222px;
+    height: 222px;
+    margin: 11px;
+}
+.blok1{
+    background-color: rgb(129, 129, 231)
+
+    
+}
+.blok1 p{
+    color: bisque;
+}
+.blok1 span{
+    color: rgb(239, 14, 59);
+    font-size: 22px;
+}
+.blok2 img{
+    width: 445px;
+    height: 222px;
+}
+.blok2{
+    background-color: rgb(209, 50, 177);
+    text-align: center;
+}
+.blok2 a{
+    font-size: 18px;
+}
+.blok2 p{
+    color: rgb(11, 6, 1);
+    font-size: 22px;
+}
+
+.blok3 img{
+    width: 444px;
+    height: 222px;
+    margin: 11px;
+}
+.blok3 #VS{
+    width: 50px;
+    height: 50px;
+}
+.blok3{
+    background-color: rgb(37, 141, 55);
+    
+}
+.blok3 p{
+    color: rgb(14, 5, 51);
+    font-size: 22px;
+}
+.blok4 img{
+    width: 33px;
+    height: 33px;
+}
+.blok4{
+    border-width: 50px;
+  
+    text-align: center;
+    margin: 22px; 
+}
